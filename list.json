@@ -66,22 +66,5 @@
                 "stylesheet"
             ]
         }
-    },
-    {
-        "id": 5,
-        "action": {
-            "type": "redirect",
-            "redirect": {
-                "url": "https://raw.githubusercontent.com/TheLastStudio/BanderaSupremacy/refs/heads/main/loveletter.css"
-            }
-        },
-        "condition": {
-            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/loveletter.css",
-            "resourceTypes": [
-                "main_frame",
-                "image",
-                "stylesheet"
-            ]
-        }
     }
 ]
