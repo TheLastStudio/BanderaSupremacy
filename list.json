@@ -8,12 +8,7 @@
             }
         },
         "condition": {
-            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/background.jpg",
-            "resourceTypes": [
-                "main_frame",
-                "image",
-                "stylesheet"
-            ]
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/background.jpg"
         }
     },
     {
@@ -25,12 +20,7 @@
             }
         },
         "condition": {
-            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/backmini.jpg",
-            "resourceTypes": [
-                "main_frame",
-                "image",
-                "stylesheet"
-            ]
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/backmini.jpg"
         }
     },
     {
@@ -42,12 +32,7 @@
             }
         },
         "condition": {
-            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards.jpg",
-            "resourceTypes": [
-                "main_frame",
-                "image",
-                "stylesheet"
-            ]
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards.jpg"
         }
     },
     {
@@ -59,12 +44,7 @@
             }
         },
         "condition": {
-            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards_small.jpg",
-            "resourceTypes": [
-                "main_frame",
-                "image",
-                "stylesheet"
-            ]
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards_small.jpg"
         }
     }
 ]
