@@ -1,1 +1,87 @@
-["subdir1\/image1.png", "subdir1\/image2.png", "subdir2\/image1.png"]
+[
+    {
+        "id": 1,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://github.com/TheLastStudio/BanderaSupremacy/blob/main/background.jpg?raw=true"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/background.jpg",
+            "resourceTypes": [
+                "main_frame",
+                "image",
+                "stylesheet"
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://github.com/TheLastStudio/BanderaSupremacy/blob/main/backmini.jpg?raw=true"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/backmini.jpg",
+            "resourceTypes": [
+                "main_frame",
+                "image",
+                "stylesheet"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://github.com/TheLastStudio/BanderaSupremacy/blob/main/cards.jpg?raw=true"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards.jpg",
+            "resourceTypes": [
+                "main_frame",
+                "image",
+                "stylesheet"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://github.com/TheLastStudio/BanderaSupremacy/blob/main/cards_small.jpg?raw=true"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/img/cards_small.jpg",
+            "resourceTypes": [
+                "main_frame",
+                "image",
+                "stylesheet"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://raw.githubusercontent.com/TheLastStudio/BanderaSupremacy/refs/heads/main/loveletter.css"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/loveletter/200213-1218/loveletter.css",
+            "resourceTypes": [
+                "main_frame",
+                "image",
+                "stylesheet"
+            ]
+        }
+    }
+]
