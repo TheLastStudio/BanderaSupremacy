@@ -46,5 +46,17 @@
         "condition": {
             "urlFilter": "https://x5.boardgamearena.net/data/themereleases/current/games/loveletter/241127-1623/img/cards_small.jpg"
         }
+    },
+    {
+        "id": 5,
+        "action": {
+            "type": "redirect",
+            "redirect": {
+                "url": "https://github.com/TheLastStudio/BanderaSupremacy/blob/main/usamap.jpg?raw=true"
+            }
+        },
+        "condition": {
+            "urlFilter": "https://x.boardgamearena.net/data/themereleases/current/games/tickettoride/250113-1832/img/usa/map.jpg"
+        }
     }
 ]
